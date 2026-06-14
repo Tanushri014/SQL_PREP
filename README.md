@@ -5,14 +5,20 @@ This repository consists of 150+ SQL practice questions covering all fundamental
 
 SQL_PREP/
 │
+
 ├── NOTES/
 │   ├── SQL One-Shot NoteS
 │
+
 ├── QUESTIONS/
 │   ├── SQL Practice Questions PDF
 │
+
+
 ├── Solutions/
 │   
+
+
 └── README.md
 
 ## 💡 How to Use
@@ -30,8 +36,3 @@ SQL_PREP/
 ## 📌 Author
 **Tanushri Matre**
 
-
-
----
-
-### Happy Learning! 🎉
